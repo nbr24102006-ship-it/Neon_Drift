@@ -1,0 +1,19 @@
+{
+  "name": "Neon Drift: Enhanced Edition",
+  "slug": "neon-drift",
+  "version": "2.1.0",
+  "entry": "index.html",
+  "type": "html5-game",
+  "description": "A neon survival arcade game with guest play, optional leaderboard login, power-ups, achievements, spatial audio effects, settings, and a multiplayer work-in-progress panel.",
+  "features": [
+    "Guest play without login",
+    "Optional email/password leaderboard profile",
+    "Local leaderboard demo storage",
+    "Power-ups and progression",
+    "Achievements",
+    "Spatial stereo audio effects",
+    "Mobile controls",
+    "Fullscreen and settings",
+    "Multiplayer work-in-progress panel"
+  ]
+}
